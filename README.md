@@ -1,2 +1,3 @@
-# SJTU-EI338-2019_2020
- 
+This is the coding part of EI338, 2019-2010
+
+All projects come from "Operating Systems Concept", 10th edition. 
